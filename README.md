@@ -61,10 +61,11 @@ safka
 ```
 
 ## Usage
+```bash
 kaivo           # Show today's menu for Kaivopiha
 kaivo 5.3       # Show menu for Kaivopiha on March 5th
 exa             # Show today's menu for Exactum
 kumpula 7.3     # Show menu for the Kumpula area on March 7th
 0               # Exit the CLI
-
+```
 
