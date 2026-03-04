@@ -60,7 +60,7 @@ You are now able to run
 safka
 ```
 
-##Usage
+## Usage
 kaivo           # Show today's menu for Kaivopiha
 kaivo 5.3       # Show menu for Kaivopiha on March 5th
 exa             # Show today's menu for Exactum
