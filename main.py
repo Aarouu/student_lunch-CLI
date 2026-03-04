@@ -29,6 +29,7 @@ RESTAURANT_ALIASES = {
     "phy": "Physicum",
     "tf": "Täffä",
     "ablok": "A Bloc",
+    "exa": "Exactum"
 
 }
 
